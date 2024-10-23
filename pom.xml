@@ -112,7 +112,7 @@
             <plugin>
                 <groupId>org.jenkins-ci.tools</groupId>
                 <artifactId>maven-hpi-plugin</artifactId>
-                <version>3.20</version> <!-- Updated maven-hpi-plugin version -->
+                <version>3.17</version> <!-- Updated maven-hpi-plugin version -->
                 <extensions>true</extensions>
                 <configuration>
                     <compatibleSinceVersion>2.0.0</compatibleSinceVersion>
